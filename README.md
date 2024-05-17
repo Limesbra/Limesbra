@@ -4,7 +4,9 @@
 My name is Vitaly. I am studying to become a backend developer at School-21.
 
 👨‍💻 I program in C/C++ and Golang.
+
 ⚙️ I have experience in writing libraries, scripts, and servers.
+
 👨‍🎓 In my free time, I try to develop my skills in areas that are not related to my current activities.
 
 
